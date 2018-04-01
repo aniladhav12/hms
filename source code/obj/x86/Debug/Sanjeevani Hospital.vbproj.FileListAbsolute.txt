@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.exe
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.pdb
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.xml
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmlogin.resources
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.Resources.resources
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.exe
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.xml
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.pdb
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmmain.resources
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmaddpatient.resources
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmupdate.resources
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\bin\Debug\hospital.accdb
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.exe.config
+C:\Users\Administrator\Desktop\Sanjeevani Hospital\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmsearch.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.exe.config
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.exe
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.xml
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.pdb
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\bin\Debug\hospital.accdb
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.exe
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.pdb
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.xml
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmaddpatient.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmlogin.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmmain.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmsearch.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.frmupdate.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani_Hospital.Resources.resources
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.vbproj.GenerateResource.Cache
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\RdlCompile.cache
+E:\MySoftware's\Sanjeevani Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\RdlCompile.compiled
+E:\MySoftware's\DK Hospital - Project\Sanjeevani Hospital\bin\Debug\Sanjeevani Hospital.exe.config
+E:\MySoftware's\DK Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.exe
+E:\MySoftware's\DK Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.xml
+E:\MySoftware's\DK Hospital - Project\Sanjeevani Hospital\obj\x86\Debug\Sanjeevani Hospital.pdb
